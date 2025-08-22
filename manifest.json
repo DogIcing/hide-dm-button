@@ -1,0 +1,16 @@
+{
+    "name": "Hide Discord DM Button",
+    "description": "Hides the discord DM button from the DM page",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "css": [
+                "styles/hide-btn.css"
+            ],
+            "matches": [
+                "https://*.discord.com/channels/@me/*"
+            ]
+        }
+    ]
+}

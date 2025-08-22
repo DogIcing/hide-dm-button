@@ -8,6 +8,13 @@ This extension simply apply a 3 line css rule to *hide* (not remove) the button'
 }
 ```
 
+## Installation
+
+- Download (make sure to unzip) or clone this repo
+- Enable developer mode in chrome://extensions
+- Load unpacked
+- Select the directory of this repo
+
 ### With / Without Extension
 
 <img width="456" height="333" alt="image" src="https://github.com/user-attachments/assets/4f0a63fc-f11d-4af6-96c6-03f58114c41f" />
